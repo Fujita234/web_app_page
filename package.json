@@ -1,0 +1,9 @@
+{
+  "name": "node_js_http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": "~10"
+  }
+}
